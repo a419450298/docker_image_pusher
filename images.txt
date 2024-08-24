@@ -1,2 +1,1 @@
-gitlab/gitlab-ce
-twang2218/gitlab-ce-zh
+deluan/navidrome:latest
