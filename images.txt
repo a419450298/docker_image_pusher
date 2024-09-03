@@ -1,1 +1,1 @@
-deluan/navidrome:latest
+harryliu888/funasr-online-server:latest
