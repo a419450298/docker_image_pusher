@@ -1,1 +1,1 @@
-yeelabs/yearning
+yeelabs/yearning:lates
